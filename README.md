@@ -60,8 +60,10 @@ Final Scores: <HybridWumpusAgent>=983
 
 
 &nbsp;
+&nbsp;
+&nbsp;
 
-#Wumpus World Solver Agent in Action
+# Wumpus World Solver Agent in Action
 
 ![Image Alt Text](Results/Images/Screenshot_05-01.png) 
 
