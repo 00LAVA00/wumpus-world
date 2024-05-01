@@ -1,6 +1,6 @@
 # Wumpus World Exploration
 
-Create a 2-wheeled agent to explore the Wumpus World on a physical grid.
+Created a 2-wheeled agent to explore the Wumpus World on a physical grid.
 
 ## Prerequisites
 Ensure you have [GCC](https://gcc.gnu.org/) and [MiniSat](http://minisat.se/) installed. On macOS, you can use `brew` to install them:
@@ -56,3 +56,18 @@ Final Scores: <HybridWumpusAgent>=983
 ```
 
 
+
+![Image Alt Text](data:image/png;base64,Base64-encoded-image-data) 
+
+
+## Raspberry Pi Car Components
+
+| Components          |     
+|---------------------|
+| Raspberry Pi 4B     | 
+| 4GB RAM             | 
+| 32GB Micro-sd card  | 
+| PiCam 5mp           |
+| L298n Motor Driver  |      
+| Car kit             |              
+| Wires               |                
