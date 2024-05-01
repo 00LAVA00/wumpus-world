@@ -4,9 +4,8 @@ Create a 2-wheeled agent to explore the Wumpus World on a physical grid.
 
 ## Prerequisites
 Ensure you have [GCC](https://gcc.gnu.org/) and [MiniSat](http://minisat.se/) installed. On macOS, you can use `brew` to install them:
-
-```bash
-brew install gcc minisat
+```bash: brew install gcc minisat
+```
 
 
 ### Usage:
