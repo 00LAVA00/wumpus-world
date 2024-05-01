@@ -57,7 +57,13 @@ Final Scores: <HybridWumpusAgent>=983
 
 
 
-![Image Alt Text](data:image/png;base64,Base64-encoded-image-data) 
+
+
+&nbsp;
+
+#Wumpus World Solver Agent in Action
+
+![Image Alt Text](data:Results/Images/Screenshot_05-01.png,Base64-encoded-image-data) 
 
 
 ## Raspberry Pi Car Components
